@@ -17,7 +17,7 @@ const data = [
     id: 2,
     image: Img2,
     title:
-      "Weather Forecast by city, including  weather parameters charts. made with React.js",
+      "Weather Forecast by city, including  weather parameters charts. created with React.js",
     github: "https://github.com/matanmar/Weather-App",
     demo: "https://weather-app-matan.netlify.app/",
   },
@@ -25,7 +25,7 @@ const data = [
     id: 3,
     image: Img3,
     title:
-      "Food recipe App, find recipe ans save your favorite. created with JaveScript (OOP).",
+      "Food recipe App, find recipe and save your favorite. created with JaveScript (OOP).",
     github: "https://github.com/matanmar/Forkify",
     demo: "https://food-recipe-matan.netlify.app/",
   },
